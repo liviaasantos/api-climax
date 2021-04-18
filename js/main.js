@@ -88,7 +88,7 @@ function changeTemp() {
 
     if(temp_unit.innerHTML === "°C") {
         let f = (temp_numer_now*1.8) + 32
-        temp_unit.innerHTML = "F"
+        temp_unit.innerHTML = "°F"
         temp_number.innerHTML = Math.round(f)
     }
 

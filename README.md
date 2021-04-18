@@ -9,7 +9,7 @@ Este projeto consiste em uma plataforma web que consome APIs da OpenWeather, uti
 
 #### Layout 
 
-![image-20210418082006080](C:\Users\55349\AppData\Roaming\Typora\typora-user-images\image-20210418082006080.png)
+![image-20210418082006080](https://user-images.githubusercontent.com/79597410/115144384-b4f1a680-a022-11eb-8480-fbf2865499e5.png)
 
 #### Clone
 
